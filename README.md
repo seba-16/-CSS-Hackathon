@@ -1,5 +1,5 @@
 # -CSS-Hackathon
-We have created a portfolio web site .
+This Portfolio Web Site is designed by Sebabrata, Sayan & Sourasish.
 
 # HOME Page
 ![](redme/S0.png)
